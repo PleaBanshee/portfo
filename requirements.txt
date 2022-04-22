@@ -29,7 +29,7 @@ pycodestyle==2.6.0
 PyInstaller==3.6
 pyjokes==0.6.0
 pylint==2.5.3
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 PySocks==1.7.1
 pytz==2020.1
 pywin32-ctypes==0.2.0
